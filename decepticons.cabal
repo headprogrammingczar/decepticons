@@ -17,6 +17,7 @@ synopsis:            The categorical dual of transformers.
 
 -- A longer description of the package.
 description:         The categorical dual of transformers.
+                     .
                      NOTE: decepticons is deprecated in favor of cdl.
 
 -- The license under which the package is released.
